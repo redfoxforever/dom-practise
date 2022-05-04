@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+/* .box {
+    width: 1200px;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40px;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    background: #000;
+    cursor: pointer;
+}
+
+.input-text {
+    margin-right: 10px;
+} */
